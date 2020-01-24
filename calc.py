@@ -1,5 +1,5 @@
 def add(x, y):
-	return x-y # here is the bug
+	return x+y
 
 def sub(x, y):
 	return x-y
